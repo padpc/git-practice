@@ -1,3 +1,4 @@
 output.log
 *.md
 *.orig
+ignore_file.txt
